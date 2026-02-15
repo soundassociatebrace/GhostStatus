@@ -1,5 +1,9 @@
 # GhostStatus – Riot Presence Privacy Tool 👻💬
 
+<p align="center">
+  <img src="https://i.ibb.co/qMRSFm7F/image.png" alt="TelePulse Engine — Telegram control preview" width="80%">
+</p>
+
 **GhostStatus** is a lightweight desktop application for players of **League of Legends**, **VALORANT**, and **Legends of Runeterra** who want more flexible control over their online/offline/“away” status and personal space.  
 
 The app is distributed as a **`.zip` archive** with **a single executable `.exe` file inside**.  
